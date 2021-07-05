@@ -5,12 +5,13 @@ I'm Sai Manikanta
 - <i>Currently:</i> Incoming MS CS Student at The University of Chicago. 
 - <i>Previously:</i> Full Stack Software Developer at J.P.Morgan Chase & Co.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta2498)
 
 <h2>👀 Stats</h2>
 
 <div>
   <p align="center">
+    
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta2498&layout=compact)
   <b><em>Overall GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikanta2498" alt="GitHub Stats" /> <br/>
   </p>
