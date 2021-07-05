@@ -10,10 +10,13 @@ I'm Sai Manikanta
 
 <div>
   <p align="center">
-    
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta2498&layout=compact)
-  <b><em>Overall GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikanta2498" alt="GitHub Stats" /> <br/>
+    <b><em>Overall GitHub Stats:</em></b> <br/>
+    <div style="width: 50%; float:left; height:100px; background:gray; margin:10px">
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta2498&layout=compact)
+    </div>
+    <div style="width: 50%; float:left; height:100px; background:yellow; margin:10px">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikanta2498" alt="GitHub Stats" /> <br/>
+    </div>
   </p>
 </div>
 
