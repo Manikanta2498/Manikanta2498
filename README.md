@@ -11,9 +11,7 @@ I'm Sai Manikanta
 <div>
   <p align="center">
     <b><em>Overall GitHub Stats:</em></b> <br/>
-    <div style="width: 50%; float:left; height:100px; background:yellow; margin:10px">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikanta2498" alt="GitHub Stats" /> <br/>
-    </div>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikanta2498" alt="GitHub Stats" /> <br/>
   </p>
 </div>
 
