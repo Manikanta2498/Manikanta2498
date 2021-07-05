@@ -10,7 +10,7 @@ I'm Sai Manikanta
 
 <div>
   <p align="center">
-    <b><em>Overall GitHub Stats:</em></b> <br/>
+    <b><em>Overall GitHub Stats:</em></b> <br/><br/>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikanta2498" alt="GitHub Stats" /> <br/>
   </p>
 </div>
