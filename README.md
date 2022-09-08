@@ -2,8 +2,8 @@
 ### Hi there 👋
 
 I'm Sai Manikanta 
-- <i>Currently:</i> MS CS Student at The University of Chicago. 
-- <i>Previously:</i> Full Stack Software Developer at J.P.Morgan Chase & Co.
+- <i>Currently:</i> Software Engineer at Uber.
+- <i>Previously:</i> CS Grad at The University of Chicago. 
 
 
 <h2>👀 Stats</h2>
