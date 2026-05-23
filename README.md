@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 I'm Sai Manikanta 
-- <i>Currently:</i> Software Engineer at Uber.
+- <i>Currently:</i> Software Engineer at Meta. Ex-Uber, JPMorgan
 - <i>Previously:</i> CS Grad at The University of Chicago. 
 
 
