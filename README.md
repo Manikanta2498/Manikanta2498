@@ -1,19 +1,21 @@
-![Sai Manikanta Banner Image](./banner.png)
-### Hi there 👋
 
-I'm Sai Manikanta 
-- <i>Currently:</i> Software Engineer at Meta. Ex-Uber, JPMorgan
-- <i>Previously:</i> CS Grad at The University of Chicago. 
+### Hi, I'm Mani 👋
 
+**Senior Full-Stack & AI Systems Engineer (ex-Meta)**  
+Building modern, high-craft web applications, distributed systems, and ambient AI architectures.
 
-<h2>👀 Stats</h2>
+---
 
-<div>
-  <p align="center">
-    <b><em>Overall GitHub Stats:</em></b> <br/><br/>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikanta2498" alt="GitHub Stats" /> <br/>
-  </p>
-</div>
+### 🛠 Tech & Architecture
+* **Frontend & Design:** Next.js (App Router), React 19, TypeScript, Tailwind CSS, Playwright.
+* **Backend & Systems:** Python, Go, Node.js, PostgreSQL, SQLite, Vector Databases, REST/GraphQL.
+* **AI & Agentic Systems:** LLM RAG pipelines, Model Context Protocol (MCP), Autonomous Agent Tooling.
+
+---
+
+### 🚀 What I'm Building
+* **[Gaja (gaja.life)](https://gaja.life)** — An ambient personal intelligence engine unifying Health, Personal
+Finance, Calendar, and Spoken Thoughts into a zero-noise daily briefing.
 
 <h2>📫 How to reach me:</h2>
 
