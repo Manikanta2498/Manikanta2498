@@ -1,36 +1,29 @@
-
 ### Hi, I'm Mani 👋
 
-**Senior Full-Stack & AI Systems Engineer (ex-Meta)**  
-Building modern, high-craft web applications, distributed systems, and ambient AI architectures.
+**Software Engineer (Distributed Systems, Backend & Full-Stack)**  
+Ex-Meta (Messaging Payments) • Ex-Uber (Compute Infra) • Ex-AAA • MS CS @ The University of Chicago
+
+---
+
+### 🏆 Certifications
+* **AWS Certified Solutions Architect – Associate**
+* **AWS Certified AI Practitioner**
 
 ---
 
 ### 🛠 Tech & Architecture
-* **Frontend & Design:** Next.js (App Router), React 19, TypeScript, Tailwind CSS, Playwright.
-* **Backend & Systems:** Python, Go, Node.js, PostgreSQL, SQLite, Vector Databases, REST/GraphQL.
-* **AI & Agentic Systems:** LLM RAG pipelines, Model Context Protocol (MCP), Autonomous Agent Tooling.
+* **Backend & Systems:** Python, Go, Java, PostgreSQL, Redis, Kafka, SQLite, REST/GraphQL, Docker, Kubernetes.
+* **Full-Stack & Mobile:** Next.js 15, React, TypeScript, React Native, Expo, iOS (Swift), Tailwind CSS, Playwright.
+* **Payments & Reliability:** Double-entry ledgers, idempotency keys, state sync mechanisms, distributed fault tolerance.
+* **AI & Agentic Systems:** LLM Tool/Function calling, Model Context Protocol (MCP), RAG pipelines, invariant evals.
 
 ---
 
 ### 🚀 What I'm Building
-* **[Gaja (gaja.life)](https://gaja.life)** — An ambient personal intelligence engine unifying Health, Personal
-Finance, Calendar, and Spoken Thoughts into a zero-noise daily briefing.
+* **[LedgerGate](https://github.com/Manikanta2498/ledgergate)** — A correctness-enforcing double-entry ledger runtime and release gate for autonomous agents that move money. Enforces deterministic accounting invariants, keyed idempotency locks, and zero-loss state transitions.
+* **[Gaja (gaja.life)](https://gaja.life)** — An ambient personal intelligence engine unifying Health, Personal Finance, Calendar, and Spoken Thoughts into a zero-noise daily briefing.
 
-<h2>📫 How to reach me:</h2>
+---
 
+### 📫 How to reach me:
 <a href="mailto:yvsaimanikanta@gmail.com">![mailto:yvsaimanikanta@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/yvsmanikanta/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<!--
-**Manikanta2498/Manikanta2498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
